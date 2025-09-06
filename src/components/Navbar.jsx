@@ -13,7 +13,7 @@ const Navbar = () => {
         <img src="/logo (1).png" alt="" className="h-14"/>
         </div>
        </NavLink>
-
+{/*something  */}
      
         <div className="flex items-center font-medium text-slate-100 mr-5 space-x-6">
           <NavLink to="/">
@@ -42,3 +42,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
